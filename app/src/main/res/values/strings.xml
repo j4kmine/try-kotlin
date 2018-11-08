@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">KotlinAcademy</string>
+    <string-array name="club_name">
+        <item>Barcelona FC</item>
+        <item>Real Madrid FC</item>
+
+    </string-array>
+
+    <array name="club_image">
+        <item>@drawable/img_barca</item>
+        <item>@drawable/img_madrid</item>
+
+    </array>
+</resources>
